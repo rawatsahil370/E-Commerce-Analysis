@@ -1,7 +1,7 @@
 
 # 🛒 E-Commerce Data Analysis Project
 
-_Analyzing agreement, billing, and revenue performance to deliver actionable financial insights using Python, SQL, and Power BI._
+_Performing end-to-end e-commerce data analysis, including data cleaning, SQL querying, and visualization, to support data-driven decision-making._
 
 ---
 ## 📌 Table of Contents
