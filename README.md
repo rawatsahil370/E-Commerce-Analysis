@@ -5,7 +5,7 @@ _Performing end-to-end e-commerce data analysis, including data cleaning, SQL qu
 
 ---
 ## 📌 Table of Contents
-- <a href="#Project-Overview">Overview</a>
+- <a href="#Overview">Overview</a>
 - <a href="#Business-Problem">Business Problem</a>
 - <a href="#dataset">Dataset</a>
 - <a href="#tools--technologies">Tools & Technologies</a>
